@@ -1,0 +1,64 @@
+@® Electronic Dice: This was a hardware project built using 555 timer , J K_ flip flop IC’s
+and a 7 segment display . Here , when the user pushes a button , counting of numbers
+from 1 to 6 starts and as soon as the user releases the button , counting stops and a
+random number from 1 to 6 is displayed. The numbers here are randomized by
+counting the numbers in milliseconds speed
+
+@® Restaurant Management System: This was a simulation project built in electronics
+circuit simulator keeping in mind to automate direct food ordering from customer’s
+table to chef at kitchen in order to reduce the work load on waiters and servers as well
+as to avoid misplacement of ordered food and wrong food order. This also simplifies the
+billing system and helps in maintaining annual statistics of a restaurant. Here we used
+two modules namely , customer module and kitchen module , each having a functioning
+Atmegal6 micro controller and both the modules being connected by a Zigbee
+technology. At the customer end , the customer enters the item id with reference to a
+menu present on the table and then an acknowledgement is sent to the customer as
+the chef receives the order in reference to item id.
+
+Individual Project:
+
+@® Budget Management System: This was a web application project built using HTML,
+CSS, Bootstrap, PHP and MySQL. Firstly , the user creates an account by filling all the
+credentials in sign up page, then the user can use those login details filled in the sign up
+page to login to the application. The user is now redirected to home page, here the user
+creates a plan and keeps track of all the expenses and savings made in that plan. A plan
+might consist of one or more members in it. The user can view all his current active
+plans and expenses made by all the members of a particular plan along with image of
+the expense bill if exists
+
+@® TIC TAC TOE: Created a TIC TAC TOE game board using ReactJS and also had
+dynamic CSS designs and stores game history.
+
+Website : https://narendra.surge.sh
+
+@ Box Office : Created a Box office app using ReactJS that provides a details about a
+show or an actor when a name is entered and also we can bookmark favorite actors and
+shows.Data is fetched from TVmaze API. Designs are made using Styled-components
+package.
+
+Website : https://narendra27001.github.io/box-office/#/
+@® Progressive Chat Application : Created a chat application where a user can create a
+
+group and chat on a particular topic in a group. For details , please do experience by
+checking out the following link.
+
+Website : aymar-27001.web.app
+
+Personality Traits :
+
+Hard Worker
+
+Have lots of Patience
+
+Try until the output is achieved
+
+Never give up
+
+Always on venture of learning new things
+
+Hobbies :
+
+“ Coding
+
+“+ Watching movies
+

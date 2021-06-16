@@ -1,0 +1,59 @@
+RESUME
+
+Narendra V
+
+Mobile : +91-8147196217
+
+E-mail : narendra27001@gmail.com
+LinkedIn : linkedin.com/in/narendra-v-562aa3171
+
+GitHub : https://github.com/Narendra27001
+
+Career Objective:
+Seeking a position where I can utilize my knowledge, abilities and Personal skills while
+
+being resourceful, innovative and flexible that offers professional growth along with the
+organization.
+
+Academic Qualification :
+
+Degree / Qualification Institute Board / Year Aggregate %
+Certificate University
+
+B.E -
+BANGALORE
+:; Coniputer INSTITUTE OF SAK(CGPA)
+Graduation Science an d TECHNOLOGY, Pursuing (Aggregate of
+ngineering BANGALORE 5 Semesters)
+
+MES KISHORA
+KENDRA PU. ani
+2-4 PUC PEM COLLEGE, scar
+BANGALORE
+MOTHER
+hs TERESA HIGH
+10 SSLC 2016 96.48%
+SCHOOL,
+BANGALORE
+
+Skills:
+
+ 
+
+Languages known _ : C, C++, Python, Basics of Java and Kotlin, PHP, HTML.
+
+Database Tools : SQL, MariaDB, Firebase, Room Persistence.
+Front end Tools : CSS, Bootstrap, XML, ReactJS.
+Computer Skills : Ms word, power point,excel.
+
+Experience : Fresher
+
+Group Projects:
+
+® Calculator : This was a programming project built in C language where the user gives a
+mathematical expression of real numbers involving all the BODMAS conditions as infix
+expression as input and this infix expression is converted to a proper postfix expression
+
+using various user defined functions and result was computed using stacks data
+structures.
+

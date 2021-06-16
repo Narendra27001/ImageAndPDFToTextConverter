@@ -1,0 +1,335 @@
+RESUME
+
+Narendra V
+
+Mobile : +91-8147196217
+
+E-mail : narendra27001@gmail.com
+LinkedIn : linkedin.com/in/narendra-v-562aa3171
+
+GitHub : https://github.com/Narendra27001
+
+Career Objective:
+Seeking a position where I can utilize my knowledge, abilities and Personal skills while
+
+being resourceful, innovative and flexible that offers professional growth along with the
+organization.
+
+Academic Qualification :
+
+Degree / Qualification Institute Board / Year Aggregate %
+Certificate University
+
+B.E BANGALORE
+:; Coniputer INSTITUTE OF SAK(CGPA)
+Graduation Science an d TECHNOLOGY, Pursuing (Aggregate of
+ngineering BANGALORE 5 Semesters)
+
+MES KISHORA
+KENDRA PU. ani
+2-4 PUC PEM COLLEGE, scar
+BANGALORE
+MOTHER
+hs TERESA HIGH
+10 SSLC 2016 96.48%
+SCHOOL,
+BANGALORE
+
+Skills:
+
+ 
+
+Languages known _ : C, C++, Python, Basics of Java and Kotlin, PHP, HTML.
+
+Database Tools : SQL, MariaDB, Firebase, Room Persistence.
+Front end Tools : CSS, Bootstrap, XML, ReactJS.
+Computer Skills : Ms word, power point,excel.
+
+Experience : Fresher
+
+Group Projects:
+
+® Calculator : This was a programming project built in C language where the user gives a
+mathematical expression of real numbers involving all the BODMAS conditions as infix
+expression as input and this infix expression is converted to a proper postfix expression
+
+using various user defined functions and result was computed using stacks data
+structures.
+RESUME
+
+Narendra V
+
+Mobile : +91-8147196217
+
+E-mail : narendra27001@gmail.com
+LinkedIn : linkedin.com/in/narendra-v-562aa3171
+
+GitHub : https://github.com/Narendra27001
+
+Career Objective:
+Seeking a position where I can utilize my knowledge, abilities and Personal skills while
+
+being resourceful, innovative and flexible that offers professional growth along with the
+organization.
+
+Academic Qualification :
+
+Degree / Qualification Institute Board / Year Aggregate %
+Certificate University
+
+B.E BANGALORE
+:; Coniputer INSTITUTE OF SAK(CGPA)
+Graduation Science an d TECHNOLOGY, Pursuing (Aggregate of
+ngineering BANGALORE 5 Semesters)
+
+MES KISHORA
+KENDRA PU. ani
+2-4 PUC PEM COLLEGE, scar
+BANGALORE
+MOTHER
+hs TERESA HIGH
+10 SSLC 2016 96.48%
+SCHOOL,
+BANGALORE
+
+Skills:
+
+ 
+
+Languages known _ : C, C++, Python, Basics of Java and Kotlin, PHP, HTML.
+
+Database Tools : SQL, MariaDB, Firebase, Room Persistence.
+Front end Tools : CSS, Bootstrap, XML, ReactJS.
+Computer Skills : Ms word, power point,excel.
+
+Experience : Fresher
+
+Group Projects:
+
+® Calculator : This was a programming project built in C language where the user gives a
+mathematical expression of real numbers involving all the BODMAS conditions as infix
+expression as input and this infix expression is converted to a proper postfix expression
+
+using various user defined functions and result was computed using stacks data
+structures.
+RESUME
+
+Narendra V
+
+Mobile : +91-8147196217
+
+E-mail : narendra27001@gmail.com
+LinkedIn : linkedin.com/in/narendra-v-562aa3171
+
+GitHub : https://github.com/Narendra27001
+
+Career Objective:
+Seeking a position where I can utilize my knowledge, abilities and Personal skills while
+
+being resourceful, innovative and flexible that offers professional growth along with the
+organization.
+
+Academic Qualification :
+
+Degree / Qualification Institute Board / Year Aggregate %
+Certificate University
+
+B.E BANGALORE
+:; Coniputer INSTITUTE OF SAK(CGPA)
+Graduation Science an d TECHNOLOGY, Pursuing (Aggregate of
+ngineering BANGALORE 5 Semesters)
+
+MES KISHORA
+KENDRA PU. ani
+2-4 PUC PEM COLLEGE, scar
+BANGALORE
+MOTHER
+hs TERESA HIGH
+10 SSLC 2016 96.48%
+SCHOOL,
+BANGALORE
+
+Skills:
+
+ 
+
+Languages known _ : C, C++, Python, Basics of Java and Kotlin, PHP, HTML.
+
+Database Tools : SQL, MariaDB, Firebase, Room Persistence.
+Front end Tools : CSS, Bootstrap, XML, ReactJS.
+Computer Skills : Ms word, power point,excel.
+
+Experience : Fresher
+
+Group Projects:
+
+® Calculator : This was a programming project built in C language where the user gives a
+mathematical expression of real numbers involving all the BODMAS conditions as infix
+expression as input and this infix expression is converted to a proper postfix expression
+
+using various user defined functions and result was computed using stacks data
+structures.
+RESUME
+
+Narendra V
+
+Mobile : +91-8147196217
+
+E-mail : narendra27001@gmail.com
+LinkedIn : linkedin.com/in/narendra-v-562aa3171
+
+GitHub : https://github.com/Narendra27001
+
+Career Objective:
+Seeking a position where I can utilize my knowledge, abilities and Personal skills while
+
+being resourceful, innovative and flexible that offers professional growth along with the
+organization.
+
+Academic Qualification :
+
+Degree / Qualification Institute Board / Year Aggregate %
+Certificate University
+
+B.E BANGALORE
+:; Coniputer INSTITUTE OF SAK(CGPA)
+Graduation Science an d TECHNOLOGY, Pursuing (Aggregate of
+ngineering BANGALORE 5 Semesters)
+
+MES KISHORA
+KENDRA PU. ani
+2-4 PUC PEM COLLEGE, scar
+BANGALORE
+MOTHER
+hs TERESA HIGH
+10 SSLC 2016 96.48%
+SCHOOL,
+BANGALORE
+
+Skills:
+
+ 
+
+Languages known _ : C, C++, Python, Basics of Java and Kotlin, PHP, HTML.
+
+Database Tools : SQL, MariaDB, Firebase, Room Persistence.
+Front end Tools : CSS, Bootstrap, XML, ReactJS.
+Computer Skills : Ms word, power point,excel.
+
+Experience : Fresher
+
+Group Projects:
+
+® Calculator : This was a programming project built in C language where the user gives a
+mathematical expression of real numbers involving all the BODMAS conditions as infix
+expression as input and this infix expression is converted to a proper postfix expression
+
+using various user defined functions and result was computed using stacks data
+structures.
+@® Electronic Dice: This was a hardware project built using 555 timer , J K_ flip flop IC’s
+and a 7 segment display . Here , when the user pushes a button , counting of numbers
+from 1 to 6 starts and as soon as the user releases the button , counting stops and a
+random number from 1 to 6 is displayed. The numbers here are randomized by
+counting the numbers in milliseconds speed
+
+@® Restaurant Management System: This was a simulation project built in electronics
+circuit simulator keeping in mind to automate direct food ordering from customer’s
+table to chef at kitchen in order to reduce the work load on waiters and servers as well
+as to avoid misplacement of ordered food and wrong food order. This also simplifies the
+billing system and helps in maintaining annual statistics of a restaurant. Here we used
+two modules namely , customer module and kitchen module , each having a functioning
+Atmegal6 micro controller and both the modules being connected by a Zigbee
+technology. At the customer end , the customer enters the item id with reference to a
+menu present on the table and then an acknowledgement is sent to the customer as
+the chef receives the order in reference to item id.
+
+Individual Project:
+
+@® Budget Management System: This was a web application project built using HTML,
+CSS, Bootstrap, PHP and MySQL. Firstly , the user creates an account by filling all the
+credentials in sign up page, then the user can use those login details filled in the sign up
+page to login to the application. The user is now redirected to home page, here the user
+creates a plan and keeps track of all the expenses and savings made in that plan. A plan
+might consist of one or more members in it. The user can view all his current active
+plans and expenses made by all the members of a particular plan along with image of
+the expense bill if exists
+
+@® TIC TAC TOE: Created a TIC TAC TOE game board using ReactJS and also had
+dynamic CSS designs and stores game history.
+
+Website : https://narendra.surge.sh
+
+@ Box Office : Created a Box office app using ReactJS that provides a details about a
+show or an actor when a name is entered and also we can bookmark favorite actors and
+shows.Data is fetched from TVmaze API. Designs are made using Styled-components
+package.
+
+Website : https://narendra27001.github.io/box-office/#/
+@® Progressive Chat Application : Created a chat application where a user can create a
+
+group and chat on a particular topic in a group. For details , please do experience by
+checking out the following link.
+
+Website : aymar-27001.web.app
+
+Personality Traits :
+
+Hard Worker
+
+Have lots of Patience
+
+Try until the output is achieved
+
+Never give up
+
+Always on venture of learning new things
+
+Hobbies :
+
+“ Coding
+
+“+ Watching movies
+o,
+
+¢,
+
+Personal Details:
+
+Father’s Name
+
+Date of Birth
+Sex
+
+Nationality
+Languages
+Marital Status
+
+Permanent Address
+
+«+ Work on building various accents
+“«* Developing pattern recognition skills
+
+: P Venkatesh
+
+: 10th, June 2000
+: Male
+
+: Indian
+: English, Telugu, Kannada, Tamil, Hindi.
+: Unmarried
+
+: #81, 1°' Cross, 11° Main, Ward no -12, KM Muniyappa Layout,
+Kalanagar, Kammagondanahalli, Jalahalli West Post, Bengaluru North,
+
+Bengaluru-560015
+
+DECLARATION
+
+| hereby assure you that all the above-furnished details are true to the best of my Knowledge.
+| assure that | will do my best towards the growth of the organization.
+
+Place: Bangalore
+Date: 23/05/2021
+
+(Narendra V)
+
